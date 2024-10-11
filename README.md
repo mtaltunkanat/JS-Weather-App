@@ -6,8 +6,7 @@
 </ul>
 <br>
 Home
-![home](https://github.com/user-attachments/assets/cce75527-b449-4175-b092-a21deb6f6c0f)
-
+![Ekran görüntüsü 2024 02 15](https://github.com/user-attachments/assets/48684a55-6a9c-4d55-90bc-2ef798d04302)
 Turkiye weather degres
 ![Ekran görüntüsü 2024-10-11 212718](https://github.com/user-attachments/assets/17da45aa-9716-4c1c-86b4-e747ccbb8bb2)
 
@@ -20,3 +19,4 @@ Germany/Berlin degree
 
 If such a city or country does not exist, it gives an error.
 ![Ekran görüntüsü 2024-10-11 212937](https://github.com/user-attachments/assets/406d06c3-b1a4-4a25-9081-02e4122c4247)
+
