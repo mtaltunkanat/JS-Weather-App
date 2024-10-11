@@ -10,10 +10,9 @@ async function checkWeather(city){
 if(response.status == 404){
     document.querySelector(".error").style.display ="block";
     document.querySelector(".weather").style.display ="none";
-    //https://www.youtube.com/watch?v=MIYQR-Ybrn4 40.14
-}
-
-    var data = await response.json();
+   
+}else{
+     var data = await response.json();
 
     document.querySelector(".city").innerHTML = data.name;
     document.querySelector(".temp").innerHTML = Math.round(data.main.temp) + "°c";
@@ -38,7 +37,8 @@ if(response.status == 404){
     weatherIcon.src ="images/snow.png"
    }
    document.querySelector(".weather").style.display = "block";
-
+   document.querySelector(".error").style.display = "none";
+}
 
 }
 searchBtn.addEventListener("click", ()=>{
