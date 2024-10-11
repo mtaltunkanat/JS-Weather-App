@@ -4,9 +4,10 @@
                               <li> See a weather degree</li>
                               <li>See a Wind speed</li>
 </ul>
-<br>
+
 Home
 ![Ekran görüntüsü 2024 02 15](https://github.com/user-attachments/assets/48684a55-6a9c-4d55-90bc-2ef798d04302)
+<br>
 Turkiye weather degres
 ![Ekran görüntüsü 2024-10-11 212718](https://github.com/user-attachments/assets/17da45aa-9716-4c1c-86b4-e747ccbb8bb2)
 
